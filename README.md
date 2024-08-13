@@ -31,8 +31,8 @@ This is a Retrieval-Augmented Generation (RAG) Chatbot application that uses Ela
 
 1. Clone this repository:
    ```
-   git clone https://github.com/your-username/rag-chatbot.git
-   cd rag-chatbot
+   git clone https://github.com/itsbanjo/rag-application.git
+   cd rag-application
    ```
 
 2. Install the required dependencies:
