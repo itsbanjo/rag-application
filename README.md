@@ -1,4 +1,4 @@
-# RAG Chatbot Application
+# Generic RAG Chatbot Application
 
 ## Disclosure Statement
 
@@ -52,6 +52,7 @@ Create a `.env` file in the root directory of the project based on the provided 
 - `LLM_TYPE`: The type of language model to use (currently only supports 'openai')
 - `OPENAI_API_KEY`: Your OpenAI API key
 - `INDEX_NAME`: The name of the Elasticsearch index to search
+- `TITLE`: The preferred named of the application or the project
 - `LOGO_PATH`: Path to the logo file for the application (optional)
 - `PROMPT_TEMPLATE_FILE`: Path to the prompt template file (optional)
 - `ELSER_MODEL`: The name of the ELSER model to use for Elasticsearch (default: ".elser_model_2_linux-x86_64")
