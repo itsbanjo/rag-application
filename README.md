@@ -1,6 +1,6 @@
 # Generic RAG Chatbot Application
 
-<img src="screenshot.png" alt="RAG Chatbot Screenshot" width="50%">
+<img src="artefacts/screenshot.png" alt="RAG Chatbot Screenshot" width="50%">
 
 ## Disclosure Statement
 
