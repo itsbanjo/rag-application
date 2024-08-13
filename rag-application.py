@@ -29,7 +29,7 @@ logger.addHandler(handler)
 CLOUD_ID = os.getenv("CLOUD_ID")
 API_KEY = os.getenv("API_KEY")
 ELASTIC_URL = os.getenv("ELASTIC_URL")
-INDEX_NAME = os.getenv("INDEX_NAME", "search-info.health.nz")
+INDEX_NAME = os.getenv("INDEX_NAME", "some-index-name")
 
 # OpenAI configuration
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
