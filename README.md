@@ -1,5 +1,7 @@
 # Generic RAG Chatbot Application
 
+![RAG Chatbot Screenshot](artefacts/screenshot.png)
+
 ## Disclosure Statement
 
 **IMPORTANT: Please read this disclosure statement carefully before using this application.**
